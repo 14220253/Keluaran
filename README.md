@@ -1,3 +1,3 @@
-# Skripsi
+# Keluaran
 
 Developed with Unreal Engine 5
